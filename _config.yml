@@ -1,0 +1,5 @@
+title: Бесплатные инструменты для стартапов
+description: Подборка обновляется ежедневно.
+theme: minima
+plugins:
+  - jekyll-data
